@@ -58,6 +58,16 @@
       "name": "Banana",
       "price": 1,
       "id": "mt9AKn6"
+    },
+    {
+      "name": "Morango",
+      "price": 12,
+      "id": "Q35FKIP"
+    },
+    {
+      "name": "Maçã",
+      "price": 6,
+      "id": "WnFBk1E"
     }
   ],
   "datacontent": [
